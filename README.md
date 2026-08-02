@@ -1,9 +1,9 @@
-my-bib Files
-============
+my-bib2 Files
+=============
 
 [![alt](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://github.com/TurtleEngr/my-bib2/blob/develop/LICENSE)
-    [![GitHub Tag](https://img.shields.io/github/v/tag/TurtleEngr/my-bib)](https://github.com/TurtleEngr/my-bib2/tags)
-    [![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3ATurtleEngr%2Fmy-bib2%20is%3Aopen&style=flat&label=issues)](https://github.com/TurtleEngr/my-bib/issues)
+    [![GitHub Tag](https://img.shields.io/github/v/tag/TurtleEngr/my-bib2)](https://github.com/TurtleEngr/my-bib2/tags)
+    [![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3ATurtleEngr%2Fmy-bib2%20is%3Aopen&style=flat&label=issues)](https://github.com/TurtleEngr/my-bib2/issues)
 
 My personal bibliography
 ------------------------
@@ -27,7 +27,7 @@ My personal bibliography
 How biblio is built and used
 ----------------------------
 
--   Source: <https://github.com/TurtleEngr/my-bib>
+-   Source: <https://github.com/TurtleEngr/my-bib2>
     -   biblio.txt - master file for biblio.html and for DB import.
     -   biblio-note.org - extra notes for biblio items.
     -   doc.odt - link to a LibreOffice document that will be updated

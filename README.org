@@ -3,23 +3,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
-<title>my-bib Files</title>
+<title>my-bib2 Files</title>
 <link rel="stylesheet"
       href="bib.css" />
 </head>
 <body>
 #+END_EXPORT
-* my-bib Files
+* my-bib2 Files
 
 #+BEGIN_SRC
 [![alt](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://github.com/TurtleEngr/my-bib2/blob/develop/LICENSE)
-[![GitHub Tag](https://img.shields.io/github/v/tag/TurtleEngr/my-bib)](https://github.com/TurtleEngr/my-bib2/tags)
-[![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3ATurtleEngr%2Fmy-bib2%20is%3Aopen&style=flat&label=issues)](https://github.com/TurtleEngr/my-bib/issues)
+[![GitHub Tag](https://img.shields.io/github/v/tag/TurtleEngr/my-bib2)](https://github.com/TurtleEngr/my-bib2/tags)
+[![GitHub issue custom search](https://img.shields.io/github/issues-search?query=repo%3ATurtleEngr%2Fmy-bib2%20is%3Aopen&style=flat&label=issues)](https://github.com/TurtleEngr/my-bib2/issues)
 #+END_SRC
 
 #+BEGIN_EXPORT html
 <p><img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"/> -
-<a href="https://github.com/TurtleEngr/my-bib/blob/develop/LICENSE" target="_blank">
+<a href="https://github.com/TurtleEngr/my-bib2/blob/develop/LICENSE" target="_blank">
 LICENSE</a></p>
 #+END_EXPORT
 
@@ -43,7 +43,7 @@ LICENSE</a></p>
 
 ** How biblio is built and used
 
-+ Source: https://github.com/TurtleEngr/my-bib
++ Source: https://github.com/TurtleEngr/my-bib2
   + biblio.txt - master file for biblio.html and for DB import.
   + biblio-note.org - extra notes for biblio items.
   + doc.odt - link to a LibreOffice document that will be updated from
