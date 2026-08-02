@@ -1,0 +1,28 @@
+.justify {
+    text-align: justify
+}
+body {
+    margin-left: 5%; 
+    margin-right: 10%; 
+    font-family: Times, serif; 
+    font-size: 100%; 
+    text-align: left;
+    background: #EED;
+    color: black;
+}
+pre {
+    font-size: 100%; 
+    line-height: 100%; 
+    font-family: Courier New, monospace; 
+    text-align: left; 
+}
+blockquote {
+    margin-left: 5%; 
+    margin-right: 15%; 
+    margin-bottom: 15px;
+    font-size: 110%; 
+    font-family: "Times New Roman", serif; 
+    font-style: italic; 
+    text-indent: 0px;
+    text-align: left;
+}
